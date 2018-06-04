@@ -1,0 +1,10 @@
+{
+  "properties": [
+    {
+      "name": "spring.web.practice.excle.enabled",
+      "type": "java.lang.Boolean"
+    }
+  ]
+}
+
+
